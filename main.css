@@ -17,18 +17,26 @@
     padding: 16px;
 
     /* Phase 2 */
+    width: fit-content;
 
-    /* Your code here
 }
 
 .example2 > button {
-    padding: 6px;
+    padding: 7px;
     font-size: 16px;
+    vertical-align: top;
 }
+
 .example2 > input {
     font-size: 24px;
     background-color: teal;
     color: lightcyan;
+    padding: 2px;
+}
+
+.example2 > label {
+    padding: 6px;
+    justify-content: center;
 }
 
 .example3 {
