@@ -6,8 +6,9 @@
     font-size: 42pt;
 
     /* Phase 1 */
-
-    /* Your code here 
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .example2 {
@@ -17,7 +18,7 @@
 
     /* Phase 2 */
 
-    /* Your code here 
+    /* Your code here
 }
 
 .example2 > button {
@@ -46,13 +47,13 @@
 
     /* Phase 3 */
 
-    /* Your code here 
+    /* Your code here
 }
 
 .example4 {
     /* Phase 4 - Part 1 of 2 */
 
-    /* Your code here 
+    /* Your code here
 }
 
 .sidebar {
@@ -61,7 +62,7 @@
 
     /* Phase 4 - Part 2 of 2 */
 
-    /* Your code here 
+    /* Your code here
 }
 .content-area {
     background-color: #E8EFF0;
